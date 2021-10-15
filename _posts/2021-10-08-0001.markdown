@@ -1,0 +1,47 @@
+ENTRY 0001
+
+Today I covered:
+    finished calculator app
+    Javascript course 
+    Javascript MDN notes
+    Git course
+    React Intro
+
+Finished refacotring the calculator and updated the styling slightly. Happy with 
+this project. Learned much about how to properly structure code and about how to
+better separate functions and avoid repeating lines.
+
+The JS course talked about arrays and object. discovered the Indexof method to 
+grab the index of a value.
+While notetaking I covered the operators. The logical comparison and assignment 
+ones might be useful in the future. 
+
+in git, I learned a little about 'reset' to point back to the head when you make 
+changes. Also learned some about 'restore' to unstage a change. that is followed
+up with git checkout . to revert to the previous stage.
+
+React & DOM.
+DOM is an object in JS that represents the entire HTML. React uses a virtual DOM
+object that it can more easily manipulate and then compares this to the actual 
+DOM and then uses an algorithm to effectively update the real DOM. This makes 
+React run much quicker since changes are cheap (only on the virtual, memory-only
+DOM). It also uses JSX, a sort of pseudo-language that allows HTML to be written
+in JS files.
+
+Decent day. Had several time wasting moments as well though. The grind of 
+learning is tough. Exercise & taking breaks and eating well do help. The
+
+Also spent some time reading code complete covering Pseudo code. Main two points
+1 Code INTO a language, not IN it
+2 practice good pseudocoding.
+combined this allows you to solve the problem prior to writing a single line of code
+This approach means that the actual coding is a lot easier & bugs are caught before
+they create problems. 
+layer 1: english that is not language specific
+layer 2: each line is planned out in said language.
+layer 3: actual code. 
+
+Doing 1 & 2 will make 3 way easier. 
+
+Signing off, 
+Lennart
