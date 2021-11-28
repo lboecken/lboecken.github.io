@@ -1,9 +1,7 @@
+# **TITLE**
 
+## _Things I Did Today_
 
-
-# **TITLE** 
-
-## *Things I Did Today*
 <ol>
 <li>Template</li>
     <ol>
@@ -11,14 +9,14 @@
     </ol>
 </ol>
 
-
-## *Successes*
+## _Successes_
 
 ### Success1
+
 Success1
 
-## *Failures*
+## _Failures_
 
-## *Improvements*
+## _Improvements_
 
 # Final Thoughts

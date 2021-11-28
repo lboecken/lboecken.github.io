@@ -1,0 +1,58 @@
+# **Back at it**
+
+## _Things I Did Today_
+
+<ol>
+<li>Twitter App</li>
+    <ol>
+    <li>Refactoring mostly done</li>
+    <li>Stripped UI. Copying twitter exactly this time. Mobile first, then desktop.</li>
+    <li>used tunnelto.dev to allow for actual mobile development.</li>
+    </ol>
+<li>Code Complete</li>
+    <ol>
+    <li>Design Considerations: 
+        <ol>
+            <li>Design is complex due to *essential* and *accidental*
+            difficulties. </li>
+            <li>Good software design can be summed up as follows: MANAGE COMPLEXITY. All design decisions should originate from this paradigm. </li>
+            <li>Good design limits the amount of information a developer needs to hold in his head while working on any given system. Why? Because he is the limiting factor</li>
+            <li>Minimize Essential Complexity. Avoid proliferation of accidental complexity</li>
+        </ol>
+    </li>
+    </ol>
+<li>MDN - RegEx</li>
+    <ol>
+    <li>Creation: <br>constructor or string literal</li>
+    <li>Write: <br>Simple Pattern + <br>Special Characters | Groups & Ranges | Quantifiers | Unicode Escapes | Assertions</li>
+    <li>Using:<br>
+    RegEx.test() + String.search() => Boolean result<br>
+    RegEx.exec() + String.match() => Modifiable result</li>
+    <li>Flags: <br> d g i m etc.</li>
+    </ol>
+</ol>
+
+## _Successes_
+
+### Back from the holidays kickoff
+
+Had a good falloff during the holidays & when dealing with the twitter app UI. Am in the process of
+getting back on top of everything again.
+
+## _Failures_
+
+### Distractions
+
+Rough time starting this morning due to lack of clear vision. Waster more time than I would have liked. Although the end day did at least end much better.
+
+## _Improvements_
+
+### Setup Changes
+
+Using tiles for Mac to have 3 windows on larger monitors aligned vertically. Mostly browsers for research & looking and live development. Terminals now split on laptop screen on one desktop and VS Code on fullscreen on the Laptop as well. Allows for much better researching. Important since most of my time is spent researching, not coding.
+
+### Tunnelto.Dev --> New Tool
+
+A new dev tool. Allows me to access my localhost from the internet. Allows mobile development from an actual mobile device instead of forcing it to be done locally.
+
+# Final Thoughts
