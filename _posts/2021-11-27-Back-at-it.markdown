@@ -56,3 +56,5 @@ Using tiles for Mac to have 3 windows on larger monitors aligned vertically. Mos
 A new dev tool. Allows me to access my localhost from the internet. Allows mobile development from an actual mobile device instead of forcing it to be done locally.
 
 # Final Thoughts
+
+Great to be back.
